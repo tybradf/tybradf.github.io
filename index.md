@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Select Work Samples
 
 [Predicting Crime in Chicago](/content/BradfordWorkSamplewCode.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ChicagoPredictionCover.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

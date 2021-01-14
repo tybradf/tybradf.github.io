@@ -4,12 +4,13 @@
 
 ### Select Work Samples
 
-[Predicting Crime in Chicago](/content/BradfordWorkSamplewCode.html)
+[1. Predicting Crime in Chicago](/content/BradfordWorkSamplewCode.html)
 <img src="images/ChicagoPredictionCover.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[2. Predicting Restaurant Closures: COVID-19 Economic Impact](/content\Chong_BradfordCIS545FinalProj.ipynb)
+<img src="images/RestaurantPrediciton_545.png?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
@@ -20,10 +21,6 @@
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 

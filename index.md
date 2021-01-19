@@ -4,17 +4,17 @@
 
 ### Select Work Samples
 
-[1. Predicting Crime in Chicago](/content/BradfordWorkSamplewCode.html)
-<img src="images/ChicagoPredictionCover.png?raw=true"/>
+#### [1. Geospatial Crime Prediction in Chicago](/content/BradfordWorkSamplewCode.html)
+<img src="images/ChicagoPredictionCover.png?raw=true" width=80% height=80%/>
 
 ---
-[2. Predicting Restaurant Closures: COVID-19 Economic Impact](/content\Chong_BradfordCIS545FinalProj.ipynb)
+#### [2. Predicting Restaurant Closures: COVID-19 Economic Impact](https://github.com/tybradf/tybradf.github.io/blob/master/content/Chong_BradfordCIS545FinalProj.ipynb)
 <img src="images/RestaurantPrediciton_545.png?raw=true"/>
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [3. Proactive Approach to Heroin Harm Reduction in Cincinnati](/content/HeroinODPrediction.html)
+<img src="images/HeroinSigDist.png?raw=true"/>
 
 ---
 

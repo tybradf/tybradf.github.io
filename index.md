@@ -19,6 +19,9 @@
 
 ---
 
+#### [4. Diverse Urban Landscapes and Monsoon Climates in Antananarivo, Madagascar](/content/TanaEnvironmentArticle.pdf)
+<img src="images/Tana2021-01-09.jpg?raw=true"/>
+
 
 
 

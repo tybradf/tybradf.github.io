@@ -8,7 +8,7 @@
 <img src="images/ChicagoPredictionCover.png?raw=true"/> 
 
 ---
-#### [2. Predicting Restaurant Closures: COVID-19 Economic Impact](https://mybinder.org/v2/gh/tybradf/tybradf.github.io/5c70ed5bb62e7c715b97ccc0708d7ffe3a54814d?filepath=content%2FChong_BradfordCIS545FinalProj.ipynb)
+#### [2. Predicting Restaurant Closures: COVID-19 Economic Impact](https://colab.research.google.com/drive/1oBxhm6lnicPvAIoyvcZv6SXJvV3aqA60?usp=sharing)
 <img src="images/RestaurantPrediciton_545.png?raw=true"/>
 
 
